@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "f7cc0ff72bf620e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "492c59e6aac8cc72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d74782dc94e5ad0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "成长/01th_谈勤劳/bth_骆驼祥子.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50652c46326d971a",
+    "type": "split",
+    "children": [
+      {
+        "id": "41323ff185d01126",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "127daa42fa74585c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c81412c6b4bf5303",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#乐观  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2290449df4cbae54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8eaf1db858cfdc72",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ea64de8956ca5a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "099ba929e4926b18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "成长/01th_谈勤劳/bth_骆驼祥子.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d09a2f45e1bfc47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "成长/01th_谈勤劳/bth_骆驼祥子.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e425bf895574aa1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "42059fe23a6b8084",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "成长/01th_谈勤劳/bth_骆驼祥子.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d74782dc94e5ad0a",
+  "lastOpenFiles": [
+    "成长/01th_谈勤劳/cth_什么叫吃苦,勤劳.md",
+    "成长/01th_谈勤劳/ath_勤劳致富?.md",
+    "成长/01th_谈勤劳/0th_勤劳吃苦主题.md",
+    "成长/01th_谈勤劳/bth_骆驼祥子.md",
+    "成长/00th_情绪/aath_乐观.md",
+    "00th_怎么使用/怎么实践卡片笔记.md",
+    "00th_怎么使用/怎么使用Obsidian.md",
+    "概念卡片.md",
+    "成长/03th_面对困难/ath_面对困难时候的态度.md",
+    "成长/02th_谈贫穷/ath_贫穷的循环.md",
+    "成长/03th_面对困难/bth_面对困难_乔布斯.md",
+    "成长/03th_面对困难",
+    "成长/00th_情绪/ath_乐观",
+    "成长/00th_情绪/未命名.md",
+    "成长/00th_情绪",
+    "人性",
+    "obsidian反向链接怎么使用.md",
+    "未命名.canvas",
+    "成长/02th_谈贫穷",
+    "成长/01th_谈勤劳",
+    "成长/00th_怎么使用/未命名.md",
+    "00th_怎么使用",
+    "成长",
+    "Welcome.md"
+  ]
+}
