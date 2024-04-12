@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "成长/02th_谈贫穷/ath_贫穷的循环.md",
+                "file": "观点卡片/不要直接出卖自己的时间来获取收入.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "成长/02th_谈贫穷/ath_贫穷的循环.md",
+                "file": "观点卡片/不要直接出卖自己的时间来获取收入.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "成长/02th_谈贫穷/ath_贫穷的循环.md",
+                "file": "观点卡片/不要直接出卖自己的时间来获取收入.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "成长/02th_谈贫穷/ath_贫穷的循环.md"
+                "file": "观点卡片/不要直接出卖自己的时间来获取收入.md"
               }
             }
           }
@@ -147,39 +147,42 @@
   },
   "active": "9d523bf4c8139775",
   "lastOpenFiles": [
-    "案例卡片/案例-乐观.md",
-    "概念卡片/概念-吃苦.md",
-    "案例卡片/案例-面对困难.md",
-    "成长/02th_谈贫穷/ath_贫穷的循环.md",
-    "成长/01th_谈勤劳/cth_什么叫吃苦,勤劳.md",
+    "观点卡片/不要直接出卖自己的时间来获取收入.md",
+    "方法卡片/优化个体第一种商业模式.md",
+    "方法卡片/优化个体第三种商业模式.md",
+    "方法卡片/开启个体第二种商业模式.md",
+    "概念卡片/概念-个体商业模式.md",
+    "00th_怎么使用/怎么实践卡片笔记.md",
+    "00th_怎么使用/怎么使用Obsidian.md",
     "案例卡片/案例-骆驼祥子.md",
     "观点卡片/勤劳就能致富？.md",
+    "概念卡片/概念-吃苦.md",
+    "观点卡片/为什么要乐观.md",
+    "金句卡片/金句-谈穷富.md",
+    "成长/02th_谈贫穷/ath_贫穷的循环.md",
+    "金句卡片",
+    "案例卡片/案例-乐观.md",
+    "案例卡片/案例-面对困难.md",
+    "成长/01th_谈勤劳/cth_什么叫吃苦,勤劳.md",
     "成长/01th_谈勤劳/bth_骆驼祥子.md",
     "成长/01th_谈勤劳/ath_勤劳致富?.md",
     "成长/01th_谈勤劳/0th_勤劳吃苦主题.md",
     "方法卡片",
-    "观点卡片/为什么要乐观.md",
     "案例卡片/案例-乐观01.md",
     "未命名.md",
     "概念卡片",
     "索引卡片(用于关联)",
     "观点卡片",
     "案例卡片",
-    "00th_怎么使用/怎么实践卡片笔记.md",
     "成长/03th_面对困难/ath_面对困难时候的态度.md",
     "成长/03th_面对困难/bth_面对困难_乔布斯.md",
     "成长/00th_情绪/aath_乐观.md",
     "未命名.canvas",
-    "00th_怎么使用/怎么使用Obsidian.md",
     "概念卡片.md",
     "成长/03th_面对困难",
     "成长/00th_情绪/ath_乐观",
     "成长/00th_情绪/未命名.md",
     "成长/00th_情绪",
-    "人性",
-    "obsidian反向链接怎么使用.md",
-    "成长/02th_谈贫穷",
-    "成长/00th_怎么使用/未命名.md",
-    "Welcome.md"
+    "人性"
   ]
 }
