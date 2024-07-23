@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f3f2f60627f7ac2d",
+        "id": "45b3771e17510b94",
         "type": "tabs",
         "children": [
           {
-            "id": "9d523bf4c8139775",
+            "id": "6db0a9abe5ffc1aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "观点卡片/勤劳就能致富？.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c0cf6b01fde014d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "观点卡片/勤劳就能致富？.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "观点卡片/勤劳就能致富？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "观点卡片/勤劳就能致富？.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,8 +137,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9c0cf6b01fde014d",
+  "active": "6db0a9abe5ffc1aa",
   "lastOpenFiles": [
+    "观点卡片/勤劳就能致富？.md",
     "观点卡片/何为三观不同.md",
     "观点卡片/吃高级的苦.md",
     "观点卡片/不要直接出卖自己的时间来获取收入.md",
@@ -172,7 +154,6 @@
     "概念卡片/概念-吃苦.md",
     "概念卡片/互惠.md",
     "方法卡片/优化个体第一种商业模式.md",
-    "观点卡片/勤劳就能致富？.md",
     "方法卡片/优化个体第三种商业模式.md",
     "方法卡片/开启个体第二种商业模式.md",
     "概念卡片/概念-个体商业模式.md",
